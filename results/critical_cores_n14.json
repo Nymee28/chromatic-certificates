@@ -1,0 +1,392 @@
+[
+ {
+  "g6": "M?O?aSOGO??CY@GS?",
+  "eff": 11,
+  "edges": 16,
+  "rows": 19172,
+  "cols": 35168,
+  "deg4_solvable": true,
+  "primes": [
+   7754713,
+   7754711
+  ],
+  "time_s": 10
+ },
+ {
+  "g6": "M?OCG??O?cAp?cf@?",
+  "eff": 11,
+  "edges": 17,
+  "rows": 19125,
+  "cols": 37366,
+  "deg4_solvable": true,
+  "primes": [
+   7764221,
+   7764193
+  ],
+  "time_s": 12
+ },
+ {
+  "g6": "MAKC?@AI_?@?W@iC?",
+  "eff": 11,
+  "edges": 17,
+  "rows": 19178,
+  "cols": 37366,
+  "deg4_solvable": true,
+  "primes": [
+   7753489,
+   7753481
+  ],
+  "time_s": 21
+ },
+ {
+  "g6": "M?G?H?M?OmAs??AC?",
+  "eff": 11,
+  "edges": 17,
+  "rows": 19231,
+  "cols": 37366,
+  "deg4_solvable": true,
+  "primes": [
+   7742807,
+   7742771
+  ],
+  "time_s": 15
+ },
+ {
+  "g6": "MA@G@`_CHBBCBC???",
+  "eff": 11,
+  "edges": 18,
+  "rows": 19301,
+  "cols": 39564,
+  "deg4_solvable": true,
+  "primes": [
+   7728757,
+   7728739
+  ],
+  "time_s": 4
+ },
+ {
+  "g6": "M??@HdOGIGAeOI???",
+  "eff": 11,
+  "edges": 18,
+  "rows": 19333,
+  "cols": 39564,
+  "deg4_solvable": true,
+  "primes": [
+   7722361,
+   7722349
+  ],
+  "time_s": 9
+ },
+ {
+  "g6": "MGF__@g?CC??WI___",
+  "eff": 11,
+  "edges": 18,
+  "rows": 19286,
+  "cols": 39564,
+  "deg4_solvable": true,
+  "primes": [
+   7731761,
+   7731743
+  ],
+  "time_s": 11
+ },
+ {
+  "g6": "Mo@G?_xcO?@?O@gG?",
+  "eff": 12,
+  "edges": 18,
+  "rows": 19607,
+  "cols": 39564,
+  "deg4_solvable": true,
+  "primes": [
+   7668203,
+   7668197
+  ],
+  "time_s": 19
+ },
+ {
+  "g6": "M_oW?gDC?O_FoO???",
+  "eff": 11,
+  "edges": 18,
+  "rows": 19358,
+  "cols": 39564,
+  "deg4_solvable": true,
+  "primes": [
+   7717373,
+   7717343
+  ],
+  "time_s": 10
+ },
+ {
+  "g6": "MBOkO?O?D@PsU????",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19335,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7721963,
+   7721953
+  ],
+  "time_s": 17
+ },
+ {
+  "g6": "M?QECC?A?_Qi`a?@_",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19508,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7687637,
+   7687627
+  ],
+  "time_s": 38
+ },
+ {
+  "g6": "MB?C??epCcW?LH???",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19341,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7720759,
+   7720729
+  ],
+  "time_s": 24
+ },
+ {
+  "g6": "MLA_A?oWOHAGcB???",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19341,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7720759,
+   7720729
+  ],
+  "time_s": 17
+ },
+ {
+  "g6": "M?Sp?KG?w?K?GsA@?",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19589,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7671737,
+   7671733
+  ],
+  "time_s": 20
+ },
+ {
+  "g6": "Mp?@_k?GA?gapQ???",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19354,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7718159,
+   7718143
+  ],
+  "time_s": 18
+ },
+ {
+  "g6": "MA?Gy@P??EA@@oE@?",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19353,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7718369,
+   7718341
+  ],
+  "time_s": 16
+ },
+ {
+  "g6": "MQbH??OW_???Ek@K?",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19334,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7722163,
+   7722139
+  ],
+  "time_s": 14
+ },
+ {
+  "g6": "MgW??@Q?@sOD__CG_",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19315,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7725959,
+   7725947
+  ],
+  "time_s": 17
+ },
+ {
+  "g6": "M`?S?_P??cO?WW@X_",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19512,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7686859,
+   7686857
+  ],
+  "time_s": 15
+ },
+ {
+  "g6": "M?Gi@gWEIGEOO@???",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19613,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7667021,
+   7667003
+  ],
+  "time_s": 20
+ },
+ {
+  "g6": "MV??a??_O?GJGoGQ_",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19313,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7726349,
+   7726343
+  ],
+  "time_s": 23
+ },
+ {
+  "g6": "M_wo?BAU??GE@_@C?",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19543,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7680733,
+   7680727
+  ],
+  "time_s": 28
+ },
+ {
+  "g6": "M?CA]AAcK_A_oK???",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19564,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7676633,
+   7676621
+  ],
+  "time_s": 37
+ },
+ {
+  "g6": "MT@?D?o@?cC{??oC?",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19587,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7672127,
+   7672123
+  ],
+  "time_s": 27
+ },
+ {
+  "g6": "MgOA_A_K?@bAqa???",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19301,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7728757,
+   7728739
+  ],
+  "time_s": 8
+ },
+ {
+  "g6": "MT@??EO?facS@G???",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19549,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7679579,
+   7679561
+  ],
+  "time_s": 19
+ },
+ {
+  "g6": "MGOw?@O?C?CCaIdB?",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19322,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7724551,
+   7724543
+  ],
+  "time_s": 16
+ },
+ {
+  "g6": "MPGDAOPheK????CO?",
+  "eff": 12,
+  "edges": 19,
+  "rows": 19553,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7678789,
+   7678787
+  ],
+  "time_s": 19
+ },
+ {
+  "g6": "MZ?@?sGw_?OE??AW?",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19355,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7717951,
+   7717939
+  ],
+  "time_s": 16
+ },
+ {
+  "g6": "MWAAW??aCOgo?`G@_",
+  "eff": 11,
+  "edges": 19,
+  "rows": 19348,
+  "cols": 41762,
+  "deg4_solvable": true,
+  "primes": [
+   7719359,
+   7719353
+  ],
+  "time_s": 16
+ }
+]

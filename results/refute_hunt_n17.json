@@ -1,0 +1,146 @@
+[
+ {
+  "g6": "P?AAGAVBoX`?cCox?a?OAypw",
+  "p": 0.367,
+  "rows": 59013,
+  "cols": 182920,
+  "deg4_solvable": true,
+  "primes": [
+   4420037,
+   4420019
+  ],
+  "time_s": 2102
+ },
+ {
+  "g6": "POZOW?e@Ag@DkQx`dTTPCQG?",
+  "p": 0.365,
+  "rows": 59158,
+  "cols": 201212,
+  "deg4_solvable": true,
+  "primes": [
+   4414607,
+   4414601
+  ],
+  "time_s": 2488
+ },
+ {
+  "g6": "PPs?j_OdBkO?D_CUOHh]_J_{",
+  "p": 0.33,
+  "rows": 59204,
+  "cols": 210358,
+  "deg4_solvable": true,
+  "primes": [
+   4412897,
+   4412893
+  ],
+  "time_s": 2622
+ },
+ {
+  "g6": "PtJiX?_rd?@?wOSC~gBgc_?c",
+  "p": 0.391,
+  "rows": 59155,
+  "cols": 210358,
+  "deg4_solvable": true,
+  "primes": [
+   4414727,
+   4414723
+  ],
+  "time_s": 2624
+ },
+ {
+  "g6": "PPhOge?jWEumcr?OPOo?SdFG",
+  "p": 0.388,
+  "rows": 59200,
+  "cols": 219504,
+  "deg4_solvable": true,
+  "primes": [
+   4413049,
+   4413043
+  ],
+  "time_s": 2861
+ },
+ {
+  "g6": "Pvi?O_`eBc_Ak\\o[o?BymCE?",
+  "p": 0.332,
+  "rows": 59161,
+  "cols": 219504,
+  "deg4_solvable": true,
+  "primes": [
+   4414463,
+   4414457
+  ],
+  "time_s": 2777
+ },
+ {
+  "g6": "PCsKgCIG|SPBaaCLMH}ebc?G",
+  "p": 0.361,
+  "rows": 59163,
+  "cols": 228650,
+  "deg4_solvable": true,
+  "primes": [
+   4414427,
+   4414411
+  ],
+  "time_s": 3009
+ },
+ {
+  "g6": "PGPcCG_tRCB]OPttKb?F`G|G",
+  "p": 0.342,
+  "rows": 59189,
+  "cols": 228650,
+  "deg4_solvable": true,
+  "primes": [
+   4413457,
+   4413443
+  ],
+  "time_s": 3070
+ },
+ {
+  "g6": "PQ?rYiD??c_PGMwck@Ws~|Oo",
+  "p": 0.398,
+  "rows": 59220,
+  "cols": 233223,
+  "deg4_solvable": true,
+  "primes": [
+   4412293,
+   4412281
+  ],
+  "time_s": 2606
+ },
+ {
+  "g6": "PuQGICmoE|?K[Vv_NkZbHnWo",
+  "p": 0.421,
+  "rows": 59228,
+  "cols": 288099,
+  "deg4_solvable": true,
+  "primes": [
+   4411963,
+   4411877
+  ],
+  "time_s": 1348
+ },
+ {
+  "g6": "PbzKERYWYvx?v]hREU\\Q_YeS",
+  "p": 0.49,
+  "rows": 59229,
+  "cols": 306391,
+  "deg4_solvable": true,
+  "primes": [
+   4411963,
+   4411877
+  ],
+  "time_s": 1432
+ },
+ {
+  "g6": "PTo`k?OVLJnQ~]bUW~SuqylK",
+  "p": 0.43,
+  "rows": 59229,
+  "cols": 324683,
+  "deg4_solvable": true,
+  "primes": [
+   4411963,
+   4411877
+  ],
+  "time_s": 1500
+ }
+]

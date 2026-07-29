@@ -1,0 +1,272 @@
+[
+ {
+  "g6_avant": "MP?@QM_A_G@__?bL?",
+  "aretes_avant": 21,
+  "maxdeg_avant": 6,
+  "deg4_avant": true,
+  "time_avant_s": 93,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 13,
+    "aretes_apres": 34,
+    "maxdeg_apres": 6,
+    "deg4_apres": true,
+    "g6_apres": "MR?PQn_AmGBawQbL?",
+    "time_s": 138
+   },
+   {
+    "strategie": "random",
+    "cordes": 5,
+    "aretes_apres": 26,
+    "maxdeg_apres": 6,
+    "deg4_apres": true,
+    "g6_apres": "MP?BQM_A_GF__`bL?",
+    "time_s": 116
+   }
+  ]
+ },
+ {
+  "g6_avant": "MHkB?A@COdGpGK?b?",
+  "aretes_avant": 24,
+  "maxdeg_avant": 5,
+  "deg4_avant": true,
+  "time_avant_s": 107,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 10,
+    "aretes_apres": 34,
+    "maxdeg_apres": 5,
+    "deg4_apres": true,
+    "g6_apres": "MJmJEAHdOdGpHK?r?",
+    "time_s": 137
+   },
+   {
+    "strategie": "random",
+    "cordes": 5,
+    "aretes_apres": 29,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MHkB?a@EOdXpGK?r?",
+    "time_s": 117
+   }
+  ]
+ },
+ {
+  "g6_avant": "MQ?GX?Cbv??Je@?R?",
+  "aretes_avant": 25,
+  "maxdeg_avant": 6,
+  "deg4_avant": true,
+  "time_avant_s": 114,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 8,
+    "aretes_apres": 33,
+    "maxdeg_apres": 6,
+    "deg4_apres": true,
+    "g6_apres": "MQ?IXbsbv??Je@WR?",
+    "time_s": 144
+   },
+   {
+    "strategie": "random",
+    "cordes": 7,
+    "aretes_apres": 32,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MY?GX?DbvCKJeP@R?",
+    "time_s": 141
+   }
+  ]
+ },
+ {
+  "g6_avant": "M_AggPqq[?O?pGE?_",
+  "aretes_avant": 25,
+  "maxdeg_avant": 6,
+  "deg4_avant": true,
+  "time_avant_s": 81,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 9,
+    "aretes_apres": 34,
+    "maxdeg_apres": 6,
+    "deg4_apres": true,
+    "g6_apres": "M_EihPqq\\ASOpGEQ_",
+    "time_s": 149
+   },
+   {
+    "strategie": "random",
+    "cordes": 1,
+    "aretes_apres": 26,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "M_AggPqq[?O?pGEG_",
+    "time_s": 87
+   }
+  ]
+ },
+ {
+  "g6_avant": "MZ??_hd\\k?pOADAA?",
+  "aretes_avant": 27,
+  "maxdeg_avant": 8,
+  "deg4_avant": true,
+  "time_avant_s": 118,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 10,
+    "aretes_apres": 37,
+    "maxdeg_apres": 8,
+    "deg4_apres": true,
+    "g6_apres": "MZ@?shd\\kStOATbA_",
+    "time_s": 158
+   },
+   {
+    "strategie": "random",
+    "cordes": 6,
+    "aretes_apres": 33,
+    "maxdeg_apres": 9,
+    "deg4_apres": true,
+    "g6_apres": "Mz?O_hd^kCpOBFAA?",
+    "time_s": 99
+   }
+  ]
+ },
+ {
+  "g6_avant": "M?uGT?chC__SQrGC_",
+  "aretes_avant": 27,
+  "maxdeg_avant": 7,
+  "deg4_avant": true,
+  "time_avant_s": 116,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 5,
+    "aretes_apres": 32,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MAuGt_chC_gSQrGK_",
+    "time_s": 105
+   },
+   {
+    "strategie": "random",
+    "cordes": 3,
+    "aretes_apres": 30,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "M?uGT@chS__TQrGC_",
+    "time_s": 127
+   }
+  ]
+ },
+ {
+  "g6_avant": "MJA`GIp?rCXgB@AF?",
+  "aretes_avant": 29,
+  "maxdeg_avant": 7,
+  "deg4_avant": true,
+  "time_avant_s": 126,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 5,
+    "aretes_apres": 34,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MJa`GJp_rcXgF@AF?",
+    "time_s": 140
+   },
+   {
+    "strategie": "random",
+    "cordes": 6,
+    "aretes_apres": 35,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MNA`Gyp?vCXgF@aF?",
+    "time_s": 139
+   }
+  ]
+ },
+ {
+  "g6_avant": "ME_HPk??McQkUC]@_",
+  "aretes_avant": 30,
+  "maxdeg_avant": 7,
+  "deg4_avant": true,
+  "time_avant_s": 128,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 7,
+    "aretes_apres": 37,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "MU_LPlCHMdQkUC]@_",
+    "time_s": 145
+   },
+   {
+    "strategie": "random",
+    "cordes": 2,
+    "aretes_apres": 32,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "ME_HPkA?McYkUC]@_",
+    "time_s": 124
+   }
+  ]
+ },
+ {
+  "g6_avant": "M[QS]ZGC?aPeOI?a_",
+  "aretes_avant": 30,
+  "maxdeg_avant": 7,
+  "deg4_avant": true,
+  "time_avant_s": 124,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 4,
+    "aretes_apres": 34,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "M\\QT]ZGC?aPeWI?e_",
+    "time_s": 135
+   },
+   {
+    "strategie": "random",
+    "cordes": 3,
+    "aretes_apres": 33,
+    "maxdeg_apres": 7,
+    "deg4_apres": true,
+    "g6_apres": "M[Q{]ZGS?aPeOI?a_",
+    "time_s": 136
+   }
+  ]
+ },
+ {
+  "g6_avant": "McHGSSSLbvHQsPXA?",
+  "aretes_avant": 35,
+  "maxdeg_avant": 8,
+  "deg4_avant": true,
+  "time_avant_s": 144,
+  "trajectoires": [
+   {
+    "strategie": "mindeg",
+    "cordes": 2,
+    "aretes_apres": 37,
+    "maxdeg_apres": 8,
+    "deg4_apres": true,
+    "g6_apres": "McHGSSsLbvHQsPXI?",
+    "time_s": 146
+   },
+   {
+    "strategie": "random",
+    "cordes": 5,
+    "aretes_apres": 40,
+    "maxdeg_apres": 8,
+    "deg4_apres": true,
+    "g6_apres": "McHKUSTLbvJQspXA?",
+    "time_s": 157
+   }
+  ]
+ }
+]

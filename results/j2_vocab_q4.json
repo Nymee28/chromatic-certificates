@@ -1,0 +1,113 @@
+[
+ {
+  "q": 4,
+  "n": 17,
+  "test": "vocab_q3",
+  "rows": 37048,
+  "cols": 6778,
+  "nnz": 27110,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 69,
+  "solve_s": 20
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=3",
+  "rows": 37048,
+  "cols": 2148,
+  "nnz": 8588,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 63,
+  "solve_s": 4
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=4",
+  "rows": 37048,
+  "cols": 5912,
+  "nnz": 23644,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 65,
+  "solve_s": 11
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=5",
+  "rows": 37048,
+  "cols": 13495,
+  "nnz": 53976,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 64,
+  "solve_s": 28
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=6",
+  "rows": 37048,
+  "cols": 23559,
+  "nnz": 94232,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 62,
+  "solve_s": 51
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=7",
+  "rows": 37048,
+  "cols": 35930,
+  "nnz": 143709,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "build_s": 62,
+  "solve_s": 246
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "test": "diam<=8",
+  "rows": 37048,
+  "cols": 60231,
+  "nnz": 240903,
+  "solvable": true,
+  "primes": [
+   5578483,
+   5578451
+  ],
+  "build_s": 64,
+  "solve_s": 229
+ }
+]

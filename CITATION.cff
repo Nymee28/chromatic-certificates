@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these results, certificates, or tools, please cite this repository."
+title: "Exact Nullstellensatz Certificates and Finite Presentations for Critical Graph Families"
+authors:
+  - name: "Nymee"
+version: 0.1.0
+date-released: 2026-07-29
+license: MIT
+repository-code: "https://github.com/Nymee28/chromatic-certificates"
+keywords:
+  - graph coloring
+  - Nullstellensatz certificates
+  - polynomial calculus
+  - P8-free graphs
+  - critical graphs
+  - finite presentations
+  - NC complexity

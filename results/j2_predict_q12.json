@@ -1,0 +1,11 @@
+{
+ "q": 12,
+ "n": 49,
+ "equations": 6186,
+ "etiquettes": 6487,
+ "source_V": "j2_labels_q8.json",
+ "constantes": 411,
+ "etiquettes_retrouvees": 411,
+ "violees": 0,
+ "ok": true
+}

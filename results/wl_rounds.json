@@ -1,0 +1,58 @@
+[
+ {
+  "groupe": "census P8-free chi>=4 (n<=10)",
+  "k": 477,
+  "max_rondes": 5,
+  "n_du_max": 10,
+  "moyenne": 2.06
+ },
+ {
+  "groupe": "chasses n=14..17 (P8-free)",
+  "k": 110,
+  "max_rondes": 3,
+  "n_du_max": 16,
+  "moyenne": 1.45
+ },
+ {
+  "groupe": "coeurs critiques n=14 (P8-free)",
+  "k": 30,
+  "max_rondes": 5,
+  "n_du_max": 14,
+  "moyenne": 2.13
+ },
+ {
+  "groupe": "CONTROLE longs chemins n=14",
+  "k": 10,
+  "max_rondes": 2,
+  "n_du_max": 14,
+  "moyenne": 1.8
+ },
+ {
+  "groupe": "memes instances P8-free-isees",
+  "k": 20,
+  "max_rondes": 4,
+  "n_du_max": 14,
+  "moyenne": 1.8
+ },
+ {
+  "groupe": "CONTROLE chemins P_n (n=8..64)",
+  "k": 15,
+  "max_rondes": 30,
+  "n_du_max": 64,
+  "moyenne": 16.0
+ },
+ {
+  "groupe": "G(q,3) q=2..15 (transitifs)",
+  "k": 14,
+  "max_rondes": 0,
+  "n_du_max": 46,
+  "moyenne": 0.0
+ },
+ {
+  "groupe": "G_ZJ(k) k=3..25 (transitifs)",
+  "k": 23,
+  "max_rondes": 0,
+  "n_du_max": 85,
+  "moyenne": 0.0
+ }
+]

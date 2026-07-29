@@ -1,0 +1,88 @@
+[
+ {
+  "q": 3,
+  "n": 13,
+  "L": 2,
+  "scouts": 1,
+  "rows": 7916,
+  "cols": 3492,
+  "solvable": false,
+  "primes": [
+   12068323,
+   12068293,
+   12068279
+  ],
+  "solve_s": 3
+ },
+ {
+  "q": 3,
+  "n": 13,
+  "L": 2,
+  "scouts": 2,
+  "rows": 7916,
+  "cols": 10311,
+  "solvable": true,
+  "primes": [
+   12068323,
+   12068293
+  ],
+  "solve_s": 8
+ },
+ {
+  "q": 3,
+  "n": 13,
+  "L": 3,
+  "scouts": 1,
+  "rows": 7916,
+  "cols": 7832,
+  "solvable": true,
+  "primes": [
+   12068323,
+   12068293
+  ],
+  "solve_s": 5
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "L": 2,
+  "scouts": 1,
+  "rows": 37048,
+  "cols": 4884,
+  "solvable": false,
+  "primes": [
+   5578483,
+   5578451,
+   5578439
+  ],
+  "solve_s": 13
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "L": 2,
+  "scouts": 2,
+  "rows": 37048,
+  "cols": 21205,
+  "solvable": true,
+  "primes": [
+   5578483,
+   5578451
+  ],
+  "solve_s": 48
+ },
+ {
+  "q": 4,
+  "n": 17,
+  "L": 3,
+  "scouts": 1,
+  "rows": 37048,
+  "cols": 11624,
+  "solvable": true,
+  "primes": [
+   5578483,
+   5578451
+  ],
+  "solve_s": 16
+ }
+]
