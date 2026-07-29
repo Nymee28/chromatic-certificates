@@ -1,5 +1,6 @@
 # Exact Nullstellensatz Certificates and Finite Presentations for Critical Graph Families
 
+[![DOI](https://zenodo.org/badge/1316275748.svg)](https://zenodo.org/badge/latestdoi/1316275748)
 We construct **exact rational Nullstellensatz certificates** of non-k-colorability for infinite families of vertex-critical graphs, and we compress entire infinite families into **finite presentations** — finite label alphabets and finite systems of equations whose single exact solution instantiates a certificate for every member of the family. We complement these constructions with **adversarial campaigns** designed to kill our own conjectures, and we publish both the confirmations and the failures.
 
 **The long-term object of this program is the complexity of 3-colorability on P₈-free graphs** — the open frontier of the Pₜ-free hierarchy (polynomial for P₇-free; NP-completeness known for no t). We conjecture a *degree-4 collapse*: every P₈-free non-3-colorable graph admits a Nullstellensatz certificate of degree ≤ 4 in the cube-roots encoding. If true, this places the class not only in P but in **NC²**. We treat this as a concrete, falsifiable laboratory for the wider P vs NP landscape, and we are not shy about that ambition — we simply let the statements carry it: every claim below can be killed by a computation, and we say by which one.
